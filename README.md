@@ -1,4 +1,4 @@
-# PortuguesePrimeiraLiga_23-24
+# Portuguese Primeira Liga_23-24
 
 Hi!
 
